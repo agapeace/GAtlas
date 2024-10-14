@@ -39,7 +39,7 @@ final class CountryList: UIViewController {
         super.viewDidLoad()
 
         title = "World Countries"
-        view.backgroundColor = .white
+        view.backgroundColor = #colorLiteral(red: 1, green: 1, blue: 1, alpha: 1)
         
         setupCollectionView()
         fetchData()
