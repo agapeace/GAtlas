@@ -1,9 +1,4 @@
-//
-//  NotificationCenter.swift
-//  GAtlas
-//
-//  Created by Damir Agadilov  on 17.09.2024.
-//
+
 
 import Foundation
 import UserNotifications

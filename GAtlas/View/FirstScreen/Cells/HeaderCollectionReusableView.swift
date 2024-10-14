@@ -1,9 +1,4 @@
-//
-//  HeaderCollectionReusableView.swift
-//  GAtlas
-//
-//  Created by Damir Agadilov  on 14.09.2024.
-//
+
 
 import UIKit
 import SkeletonView

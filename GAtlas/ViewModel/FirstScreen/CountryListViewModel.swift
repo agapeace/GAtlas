@@ -1,9 +1,3 @@
-//
-//  CountryListViewModel.swift
-//  GAtlas
-//
-//  Created by Damir Agadilov  on 16.09.2024.
-//
 
 import Foundation
 import UIKit

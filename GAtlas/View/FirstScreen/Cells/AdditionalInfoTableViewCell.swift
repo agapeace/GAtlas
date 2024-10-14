@@ -1,9 +1,3 @@
-//
-//  AdditionalInfoTableViewCell.swift
-//  GAtlas
-//
-//  Created by Damir Agadilov  on 13.09.2024.
-//
 
 import UIKit
 

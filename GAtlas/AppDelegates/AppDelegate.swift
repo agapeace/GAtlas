@@ -1,9 +1,4 @@
-//
-//  AppDelegate.swift
-//  GAtlas
-//
-//  Created by Damir Agadilov  on 12.09.2024.
-//
+
 
 import UIKit
 
